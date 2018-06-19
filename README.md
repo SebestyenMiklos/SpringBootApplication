@@ -7,7 +7,7 @@ To run this project:
 2. cd into cloned folder
 3. mvn spring-boot:run
 4. Open web-browser
-5. Call http://<IP of the PC or VM>/greeting
+5. Call http://< IP of the PC or VM >/greeting
 
 For details see the above URL.  
 
